@@ -1,0 +1,14 @@
+.app {
+  text-align: left;
+  padding: 20px;
+  background-color: rgba(7, 3, 11, 0.981);
+}
+
+
+.logo {
+  width: 150px; 
+  height: auto;
+  margin-bottom: 20px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
